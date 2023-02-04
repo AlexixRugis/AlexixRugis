@@ -6,7 +6,7 @@
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexixRugis&theme=gruvbox) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=gruvbox) |
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexixrugis&label=Profile%20views&color=0e75b6&style=flat" alt="alexixrugis" /> </p>
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/madushadhanushka?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/AlexixRugis?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 
 - 🔭 I’m currently working on **VMESTE - website for automating volunteer activities**
 
