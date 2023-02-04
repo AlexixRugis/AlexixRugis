@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm AlexixRugis</h1>
+<p styles="">
+<h1 align="center" styles="margin:auto;
+    line-height:51px;
+    vertical-align:middle;
+    padding: 51px">Hi 👋, I'm AlexixRugis</h1>
+</P>
 <h3 align="center">A passionate software developer from Russia</h3>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexixRugis&theme=gruvbox)
