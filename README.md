@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm AlexixRugis</h1>
 <h3 align="center">A passionate software developer from Russia</h3>
 
-<p float="left">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexixRugis&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexixRugis&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexixRugis&theme=solarized_dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexixRugis&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlexixRugis&theme=solarized_dark)
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexixrugis&label=Profile%20views&color=0e75b6&style=flat" alt="alexixrugis" /> </p>
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/madushadhanushka?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
