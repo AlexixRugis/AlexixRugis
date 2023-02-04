@@ -1,4 +1,4 @@
-![AlexixRugis](banner.png)
+![AlexixRugis](header.png)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexixRugis&theme=gruvbox)
 
