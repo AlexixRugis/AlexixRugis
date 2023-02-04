@@ -1,9 +1,4 @@
-<p styles="background: #000000 url(https://top-fon.com/uploads/posts/2022-09/1663796060_177-top-fon-com-p-serii-fon-abstraktsiya-geometriya-foto-193.jpg) center center/cover no-repeat local;">
-<h1 align="center" styles="margin:auto;
-    line-height:51px;
-    vertical-align:middle;
-    padding: 51px">Hi 👋, I'm AlexixRugis</h1>
-</P>
+# Hi there, I'm [AlexixRugis](https://github.com/AlexixRugis) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
 <h3 align="center">A passionate software developer from Russia</h3>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexixRugis&theme=gruvbox)
