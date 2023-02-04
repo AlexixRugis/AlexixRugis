@@ -1,5 +1,4 @@
-# Hi there, I'm [AlexixRugis](https://github.com/AlexixRugis) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-<h3 align="center">A passionate software developer from Russia</h3>
+![AlexixRugis](banner.png)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexixRugis&theme=gruvbox)
 
