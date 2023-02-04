@@ -1,4 +1,4 @@
-<p styles="">
+<p styles="background: #000000 url(https://top-fon.com/uploads/posts/2022-09/1663796060_177-top-fon-com-p-serii-fon-abstraktsiya-geometriya-foto-193.jpg) center center/cover no-repeat local;">
 <h1 align="center" styles="margin:auto;
     line-height:51px;
     vertical-align:middle;
