@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **alexix222@yandex.ru**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/uc4omn8z9bkkkqqwwecd2k2a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc4omn8z9bkkkqqwwecd2k2a" height="30" width="40" /></a>
@@ -51,9 +53,7 @@
 </p>
 
 
-    
-
-    
+![Jokes Card](https://readme-jokes.vercel.app/api)
     
     
 
