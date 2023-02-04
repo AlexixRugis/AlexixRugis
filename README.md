@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm AlexixRugis</h1>
 <h3 align="center">A passionate software developer from Russia</h3>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexixRugis&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexixRugis&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexixRugis&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexixRugis&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlexixRugis&theme=solarized_dark)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexixrugis&label=Profile%20views&color=0e75b6&style=flat" alt="alexixrugis" /> </p>
 
 - 🔭 I’m currently working on **VMESTE - website for automating volunteer activities**
@@ -15,19 +25,8 @@
 
 - 📫 How to reach me **alexix222@yandex.ru**
 
-<p float="left">
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexixRugis&theme=solarized_dark)
-</p>
-<p float="left">
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexixRugis&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexixRugis&theme=solarized_dark)
-</p>
-<p float="left">
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexixRugis&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlexixRugis&theme=solarized_dark)
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
