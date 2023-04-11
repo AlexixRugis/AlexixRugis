@@ -2,14 +2,14 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexixRugis&theme=gruvbox)
 
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexixRugis&theme=gruvbox) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexixRugis&theme=gruvbox) |
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexixRugis&theme=gruvbox)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexixrugis&label=Profile%20views&color=0e75b6&style=flat" alt="alexixrugis" /> </p>
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/AlexixRugis?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 
-- 🔭 I’m currently working on **VMESTE - website for automating volunteer activities**
+- 🔭 I'm currently **preparing for final school exams, making apps, games, studying AI**
 
-- 🌱 I’m currently learning **Django, Kotlin Compose <3**
+- 🌱 I’m currently learning **Pytorch, Django, Kotlin Compose <3**
 
 - 👯 I’m looking to collaborate on **creating programming languages parsers and compilers**
 
