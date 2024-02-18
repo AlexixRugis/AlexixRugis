@@ -4,9 +4,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexixRugis&theme=gruvbox)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexixrugis&label=Profile%20views&color=0e75b6&style=flat" alt="alexixrugis" /> </p>
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/AlexixRugis?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
-
 - 🔭 I'm currently **preparing for final school exams, making apps, games, studying AI**
 
 - 🌱 I’m currently learning **Pytorch, Django, Kotlin Compose <3**
