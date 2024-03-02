@@ -1,9 +1,6 @@
 Hi 👋 My name is AlexixRugis
 ============================
 
-I'm Unity and Backend developer
--------------------------------
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexixRugis&theme=github_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexixRugis&theme=github_dark)
