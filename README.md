@@ -1,14 +1,14 @@
 ![AlexixRugis](header.png)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexixRugis&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexixRugis&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexixRugis&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexixRugis&theme=github_dark)
 
-- 🔭 I'm currently **preparing for final school exams, making apps, games, studying AI**
+- 🔭 I'm currently **creating a VR apps, studying backend development**
 
-- 🌱 I’m currently learning **Pytorch, Django, Kotlin Compose <3**
+- 🌱 I’m currently learning **Pytorch, Django, Express.js, C++**
 
-- 👯 I’m looking to collaborate on **creating programming languages parsers and compilers**
+- 👯 I’m looking to collaborate on **creating programming languages, games, webservices, embedded...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlexixRugis?tab=repositories](https://github.com/AlexixRugis?tab=repositories)
 
